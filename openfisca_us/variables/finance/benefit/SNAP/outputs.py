@@ -11,7 +11,7 @@ from variables.finance.benefit.SNAP.intermediate import (
 class snap_monthly_benefit(Variable):
 
     value_type = int
-    entity = household
+    entity = spm_unit
     definition_period = YEAR
     documentation = ""
 
