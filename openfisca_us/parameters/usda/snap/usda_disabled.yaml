@@ -1,11 +1,5 @@
-description: USDA Definitions for Elderly and Disabled Individuals
+description: USDA Definitions for Disabled Individuals
 
-elderly:
-  age:
-    2021-01-01: 60
-  metadata:
-    unit: years
-    
 disabled:
   federal_disability_or_blindess_receipt: 
     2021-01-01: True 
